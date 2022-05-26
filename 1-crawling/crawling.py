@@ -1,14 +1,14 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[20]:
+# In[ ]:
 
 
 
 pip install openpyxl
 
 
-# In[21]:
+# In[ ]:
 
 
 import pandas as pd
@@ -18,22 +18,22 @@ from selenium import webdriver
 import time
 from bs4 import BeautifulSoup
 
-driver = webdriver.Chrome('C:/Users/pjm11/Downloads/chromedriver_win32 (2)/chromedriver.exe')
+driver = webdriver.Chrome('') ## 수정 필요! 웹드라이버 파일이 담긴 폴더 위치
 url = 'https://nid.naver.com/nidlogin.login'
 driver.get(url)
-driver.execute_script("document.getElementsByName('id')[0].value='pjm1124kr'") ##수정 필요! 본인 아이디 넣어주세요.
-driver.execute_script("document.getElementsByName('pw')[0].value='0701shjm!'") ##수정 필요! 본인 비밀번호 넣어주세요.
+driver.execute_script("document.getElementsByName('id')[0].value=''") ##수정 필요! 본인 아이디 넣어주세요.
+driver.execute_script("document.getElementsByName('pw')[0].value=''") ##수정 필요! 본인 비밀번호 넣어주세요.
 driver.find_element_by_xpath('//*[@id="log.login"]').click()
 
 study_text = []
 study_num = []
 study_nickname = []
 
-for z in range(0, 15, 1):      ##수정 필요! n~m번째 페이지 할 거면 (n-1, m, 1)!!
+for z in range(, , ):      ##수정 필요! n~m번째 페이지 할 거면 (n-1, m, 1)!!
 
   print(str(z+1) + "번째 페이지")
 
-  mbti = 11  ##수정 필요! 1번째 게시판(INFP & ENFP) ~ 8번째 게시판(ISTJ & ESTJ)까지 = 18~11 (1씩 작아짐)
+  mbti =   ##수정 필요! 1번째 게시판(INFP & ENFP) ~ 8번째 게시판(ISTJ & ESTJ)까지 = 18~11 (1씩 작아짐)
 
   url = "https://cafe.naver.com/ArticleList.nhn?search.clubid=11856775&search.menuid=" + str(mbti) + "&search.boardtype=L&search.totalCount=151&search.cafeId=11856775&search.page=" + str(z+1)
   driver.get(url)
@@ -167,11 +167,5 @@ for z in range(0, 15, 1):      ##수정 필요! n~m번째 페이지 할 거면 (
       time.sleep(2)
     data_frame = pd.DataFrame({'내용': study_text, '번호': study_num, 'id': study_nickname})
     
-    data_frame.to_excel('C:/Users/pjm11/Desktop/istj&estj_0219_1.xlsx')   ##수정 필요! 엑셀 파일 끄고 실행해주세요. 안 그러면 파일에 접근이 안 돼요!
-
-
-# In[ ]:
-
-
-
+    data_frame.to_excel('')   ##수정 필요! 엑셀 파일 끄고 실행해주세요. 안 그러면 파일에 접근이 안 돼요!
 
