@@ -63,9 +63,9 @@ google colab에서 preprocessing.ipynb 파일을 열어 차례대로 실행한�
 
 <LSTM으로 mbti 분류하기>
 
-  3-(1) LSTM 폴더의 mbti_LSTM(코드 파일)과 mbti_data.xlsx(데이터 파일)를 다운받고, 두 파일 모두 구글 드라이브에 저장해준다.
+  3-(1) LSTM 폴더의 mbti_LSTM.ipynb(코드 파일)과 mbti_data.xlsx(데이터 파일)를 다운받고, 두 파일 모두 구글 드라이브에 저장해준다.
 
-  3-(2) 3-(1)에서 구글 드라이브에 저장한 mbti_LSTM(코드 파일)를 열면 코랩으로 코드 파일이 열린다.
+  3-(2) 3-(1)에서 구글 드라이브에 저장한 mbti_LSTM.ipynb(코드 파일)를 열면 코랩으로 코드 파일이 열린다.
 
   3-(3) 주석으로 "#데이터가 담긴 엑셀 파일의 구글 드라이브 경로" 라고 적힌 라인에는 data라는 변수에 mbti_data.xlsx 파일의 구글 드라이브 경로를 적어준다.
 
