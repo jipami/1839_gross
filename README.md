@@ -1,5 +1,5 @@
 # 1839_gross
-1 - Crawling (크롤링)
+# 1 - Crawling (크롤링)
 
 아나콘다(https://www.anaconda.com/products/individual )’를 설치하여 파이썬과 라이브러리를 한번에 사용 할 수 있는 가상환경을 만들고 
 주피터 노트북(https://jupyter.org/ )으로 실행
@@ -30,7 +30,7 @@ selenium은 브라우저 자동화도구로서 웹브라우저를 통해 동적�
 
 ![image](https://user-images.githubusercontent.com/90343909/170559699-80802380-3ffc-49c8-8c42-53bc96e819ba.png)
 
-2 - Preprocessing (전처리)
+# 2 - Preprocessing (전처리)
 
 <크롤링한 데이터를 전처리하는 과정>
 
@@ -59,7 +59,7 @@ google colab에서 preprocessing.ipynb 파일을 열어 차례대로 실행한�
    -그중 Open Korea Text 를 사용하여 형태소 추출을 적용하게 되면 다음과 같이 토큰화 된다.
 
 
-3 - LSTM
+# 3 - LSTM
 
 <LSTM으로 mbti 분류하기>
 
