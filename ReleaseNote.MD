@@ -110,6 +110,7 @@ https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#other-me
 
 ![image](https://user-images.githubusercontent.com/90343909/172704489-aca5aa55-ef04-4af2-8a26-9d44e87fc1d7.png)
 
-
+--------------------------------------------------------
+---------------------------------------------------------
 
 ## 다시 Quick Start Guide로 이동하려면 다음 url로 접속한다. https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#quick-start-guide
