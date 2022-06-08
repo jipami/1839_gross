@@ -31,7 +31,7 @@ https://colab.research.google.com/drive/1OhXjgmXnt5RcVw5A2LZ65Za0fS4S1LkK#scroll
 
 (4) 링크에 접속했다면 페이지 상단에 있는 메뉴의 '런타임>모두실행'을 통해 코랩코드를 실행한다.
 
-(5) 필요한 패키지가 import 되고, 데이터가 load 된 후 전처리와 4가지 지표의 이진 분류에 대한 학습이 진행된다.
+(5) 필요한 패키지들이 import 되고, 데이터가 load 된 후 전처리와 4가지 지표의 이진 분류에 대한 학습이 진행된다.
 
 (6) 학습이 끝난 후 MBTI를 예측하는 함수가 정의되고 text 변수에 사람의 성격이 잘 드러나는 텍스트를 넣고 함수에 text 변수를 input으로 넣은 다음 실행해준다.
 
