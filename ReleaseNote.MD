@@ -112,4 +112,4 @@ https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#other-me
 
 
 
-다시 Quick Start Guide로 이동하려면 다음 url로 접속한다. https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#quick-start-guide
+## 다시 Quick Start Guide로 이동하려면 다음 url로 접속한다. https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#quick-start-guide
