@@ -3,7 +3,7 @@
 
 [mbti_분류.zip](https://github.com/parkjimin00-a11y/1839_gross/files/8861194/mbti_.zip)
 
-(1) 위 zip파일을 다운 받고 압축을 푼다. 
+(1) 위 zip파일을 다운 받고 압축을 푼다. 위 파일은 이 레퍼로터지의 3-LSTM 폴더와 동일하다.
 
 (2) 압축을 푼 폴더 안의 mbti_LSTM.ipynb(코드 파일)과 mbti_data.xlsx(데이터 파일)를 다운받고, 두 파일 모두 구글 드라이브에 저장해준다.
 
