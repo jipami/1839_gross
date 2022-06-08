@@ -8,6 +8,9 @@ Quick Start Guide
 
 (3) 위의 (2)에서 구글 드라이브에서 저장한 mbti_LSTM.ipynb(코드 파일)를 열면 코랩으로 코드 파일이 열린다.
 
+
+https://colab.research.google.com/drive/1OhXjgmXnt5RcVw5A2LZ65Za0fS4S1LkK#scrollTo=n4SGJk_oF36x
+
 (6) 코드를 실행해 주면 전처리 후 4가지 지표의 이진 분류에 대한 학습이 진행된다.
 
 (7) 학습이 끝난 후 MBTI를 예측하는 함수가 정의되고 text 변수에 사람의 성격이 잘 드러나는 텍스트를 넣고 함수에 text 변수를 input으로 넣은 다음 실행해준다.
