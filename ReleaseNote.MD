@@ -34,7 +34,7 @@ https://colab.research.google.com/drive/1OhXjgmXnt5RcVw5A2LZ65Za0fS4S1LkK#scroll
 
 # 논문
 
-다음은 이 코드를 이용해 '딥러닝을 이용한 MBTI 분류 연구' 라는 주제로 쓴 논문의 url과 pdf 파일이다.
+다음은 이 코드를 이용해 '딥러닝을 이용한 MBTI 성격 유형 분류 연구' 라는 주제로 쓴 논문의 url과 pdf 파일이다.
 
 논문 url:
 
