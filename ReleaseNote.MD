@@ -11,21 +11,19 @@ https://colab.research.google.com/drive/1OhXjgmXnt5RcVw5A2LZ65Za0fS4S1LkK#scroll
     그리고 마지막 부분에는 직접 텍스트를 받아 MBTI 성격 유형을 분류하는 것도 가능한 것을 확인할 수 있다.
 
 (5) 직접 텍스트를 넣어 MBTI를 분류하길 원한다면, text 변수에 분류하길 원하는 텍스트를 넣고 셀을 실행해 준다.
-
 ![image](https://user-images.githubusercontent.com/90343909/172704181-3031e1ff-9f8c-448c-a495-b387a6637988.png)
 
 
 
 (6) 다음 셀을 실행해 준다. (text 변수를 input으로 넣은 코드)
-
-![image](https://user-images.githubusercontent.com/90343909/172702621-d27bb530-d7d7-452b-a491-72cccd4d6849.png)
+![image](https://user-images.githubusercontent.com/90343909/172704350-206fb1eb-4085-4ea4-9362-cd85fb9990a1.png)
 
 
 
 
 (5) 그러면 그 텍스트에서 드러나는 MBTI를 예측하는 것을 볼 수 있다.
+![image](https://user-images.githubusercontent.com/90343909/172704489-aca5aa55-ef04-4af2-8a26-9d44e87fc1d7.png)
 
-![image](https://user-images.githubusercontent.com/90343909/172703093-f070cabe-e4a0-4b0a-88fb-4c8742b97b42.png)
 
 
 # 논문
