@@ -58,15 +58,19 @@ https://github.com/parkjimin00-a11y/1839_gross/blob/main/%EB%94%A5%EB%9F%AC%EB%8
 
 (5) 직접 텍스트를 넣어 MBTI를 분류하길 원한다면, text 변수에 분류하길 원하는 텍스트를 넣고 셀을 실행해 준다.
 
-![image](https://user-images.githubusercontent.com/90343909/172702978-07c9c758-bc2a-4dc5-a80c-4a1390388b20.png)
+![image](https://user-images.githubusercontent.com/90343909/172704181-3031e1ff-9f8c-448c-a495-b387a6637988.png)
+
+
 
 (6) 다음 셀을 실행해 준다. (text 변수를 input으로 넣은 코드)
 
-![image](https://user-images.githubusercontent.com/90343909/172702621-d27bb530-d7d7-452b-a491-72cccd4d6849.png)
+![image](https://user-images.githubusercontent.com/90343909/172704350-206fb1eb-4085-4ea4-9362-cd85fb9990a1.png)
+
+
 
 
 (5) 그러면 그 텍스트에서 드러나는 MBTI를 예측하는 것을 볼 수 있다.
 
-![image](https://user-images.githubusercontent.com/90343909/172703093-f070cabe-e4a0-4b0a-88fb-4c8742b97b42.png)
+![image](https://user-images.githubusercontent.com/90343909/172704489-aca5aa55-ef04-4af2-8a26-9d44e87fc1d7.png)
 
 
