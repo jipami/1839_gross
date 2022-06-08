@@ -39,6 +39,8 @@ https://colab.research.google.com/drive/1OhXjgmXnt5RcVw5A2LZ65Za0fS4S1LkK#scroll
 https://github.com/parkjimin00-a11y/1839_gross/blob/main/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20MBTI%20%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EB%B6%84%EB%A5%98%20%EC%97%B0%EA%B5%AC.pdf
 
 
+[딥러닝 기반 MBTI 성격 유형 분류 연구.pdf](https://github.com/parkjimin00-a11y/1839_gross/files/8864661/MBTI.pdf)
+
 
 # Other method
 
