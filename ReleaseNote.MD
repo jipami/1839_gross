@@ -50,9 +50,9 @@ pdf 파일 다운로드:
 
 그 방법은 아래와 같다.
 
-[mbti_LSTM.zip](https://github.com/parkjimin00-a11y/1839_gross/files/8864295/mbti_LSTM.zip)
-
 (1) 위 zip파일을 다운 받고 압축을 푼다. 위 zip파일에 담긴 파일은 코드 파일로, 이 레퍼로터지의 3-LSTM 폴더의 mbti_LSTM.ipynb와 동일하다.
+
+[mbti_LSTM.zip](https://github.com/parkjimin00-a11y/1839_gross/files/8864295/mbti_LSTM.zip)
 
 (2) 압축을 푼 폴더 안의 mbti_LSTM.ipynb(코드 파일)을 구글 드라이브에 저장해준다.
 
