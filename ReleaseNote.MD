@@ -60,14 +60,6 @@ https://github.com/parkjimin00-a11y/1839_gross/blob/main/%EB%94%A5%EB%9F%AC%EB%8
 
 ------------------------------------------------------------------------------------------------------------------
 
-# 논문
-
-다음은 이 코드를 이용해 '딥러닝을 이용한 MBTI 성격 유형 분류 연구' 라는 주제로 쓴 논문의 pdf 파일이다.
-
-
-pdf 파일 다운로드:
-
-[딥러닝 기반 MBTI 성격 유형 분류 연구.pdf](https://github.com/parkjimin00-a11y/1839_gross/files/8864661/MBTI.pdf)
 
 
 # Other method
