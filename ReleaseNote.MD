@@ -1,7 +1,9 @@
 # Quick Start Guide
 
 
-(1) 먼저 구글에 로그인 해준다. 그리고 아래의 코랩 링크에 들어간다. 아래 링크의 코드는 이 레퍼로터지의 3-LSTM 폴더의 mbti_LSTM.ipynb와 동일하다.
+(1) 먼저 구글에 로그인 해준다. 
+
+그리고 아래의 코랩 링크에 들어간다. 아래 링크의 코드는 이 레퍼로터지의 3-LSTM 폴더의 mbti_LSTM.ipynb와 동일하다.
 
 https://colab.research.google.com/drive/1OhXjgmXnt5RcVw5A2LZ65Za0fS4S1LkK#scrollTo=n4SGJk_oF36x
 
