@@ -42,7 +42,7 @@ https://colab.research.google.com/drive/1OhXjgmXnt5RcVw5A2LZ65Za0fS4S1LkK#scroll
 
 ![image](https://user-images.githubusercontent.com/90343909/172704489-aca5aa55-ef04-4af2-8a26-9d44e87fc1d7.png)
 
-
+----------------
 혹시 Quick Start Guide의 방법으로 했을 때 문제가 있다면 아래의 url로 이동한다. 
 
 https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#other-method
@@ -50,6 +50,7 @@ https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#other-me
 이 프로젝트를 기반으로 한 논문을 보고자 한다면 아래 url로 이동한다.
 
 
+------------------------------------------------------------------------------------------------------------------
 
 # 논문
 
