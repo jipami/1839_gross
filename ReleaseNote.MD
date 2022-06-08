@@ -49,6 +49,8 @@ https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#other-me
 
 이 프로젝트를 기반으로 한 논문을 보고자 한다면 아래 url로 이동한다.
 
+https://github.com/parkjimin00-a11y/1839_gross/blob/main/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20MBTI%20%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EB%B6%84%EB%A5%98%20%EC%97%B0%EA%B5%AC.pdf
+
 
 ------------------------------------------------------------------------------------------------------------------
 
