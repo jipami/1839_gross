@@ -8,7 +8,8 @@ Quick Start Guide는 https://github.com/parkjimin00-a11y/1839_gross/blob/main/Re
 
 https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#other-method
 
----------------------------------------------------------------------------------------------------------------------
+이 프로젝트를 기반으로 한 논문을 보고자 한다면 아래 url로 이동한다.
+
 ### (1) 
 먼저 구글에 로그인 해준다. 
 
