@@ -4,9 +4,7 @@ Quick Start Guide는 https://github.com/parkjimin00-a11y/1839_gross/blob/main/Re
 
 # Quick Start Guide
 
-혹시 Quick Start Guide의 방법으로 했을 때 문제가 있다면 아래의 url의 방법을 사용한다.
-
-https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#other-method
+혹시 Quick Start Guide의 방법으로 했을 때 문제가 있다면 이 url로 이동한다. https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#other-method
 ### (1) 
 먼저 구글에 로그인 해준다. 
 
