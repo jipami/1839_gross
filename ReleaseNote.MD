@@ -1,4 +1,4 @@
-#Quick Start Guide#
+Quick Start Guide
 
 [mbti_LSTM.zip](https://github.com/parkjimin00-a11y/1839_gross/files/8864295/mbti_LSTM.zip)
 
