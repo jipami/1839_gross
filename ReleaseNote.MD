@@ -1,9 +1,10 @@
 전처리와 데이터 로드, 전처리, 학습 등의 코드가 모두 담긴 곳은 
+
 Quick Start Guide는 https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#quick-start-guide
 
 # Quick Start Guide
 
-
+혹시 Quick Start Guide의 방법으로 했을 때 문제가 있다면 
 ### (1) 
 먼저 구글에 로그인 해준다. 
 
