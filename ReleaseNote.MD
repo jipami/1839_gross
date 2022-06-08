@@ -12,7 +12,7 @@ https://colab.research.google.com/drive/1OhXjgmXnt5RcVw5A2LZ65Za0fS4S1LkK#scroll
 
 (5) 직접 텍스트를 넣어 MBTI를 분류하길 원한다면, text 변수에 분류하길 원하는 텍스트를 넣고 셀을 실행해 준다.
 
-![image](https://user-images.githubusercontent.com/90343909/172702978-07c9c758-bc2a-4dc5-a80c-4a1390388b20.png)
+![image](https://user-images.githubusercontent.com/90343909/172704181-3031e1ff-9f8c-448c-a495-b387a6637988.png)
 
 
 
