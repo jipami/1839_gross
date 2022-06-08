@@ -19,6 +19,6 @@
 
 
 
-다음은 이 레퍼로터지의 코드들을 이용해 '딥러닝을 이용한 MBTI 분류 연구' 라는 주제로 쓴 논문의 url이다.
+다음은 이 코드를 이용해 '딥러닝을 이용한 MBTI 분류 연구' 라는 주제로 쓴 논문의 url이다.
 
 https://github.com/parkjimin00-a11y/1839_gross/blob/main/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20MBTI%20%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EB%B6%84%EB%A5%98%20%EC%97%B0%EA%B5%AC.pdf
