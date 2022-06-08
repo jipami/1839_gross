@@ -8,7 +8,7 @@ https://colab.research.google.com/drive/1OhXjgmXnt5RcVw5A2LZ65Za0fS4S1LkK#scroll
 (2) 링크에 접속했다면 페이지 상단에 있는 메뉴의 '런타임>모두실행'을 통해 코랩코드를 실행한다.
 
 (3) 필요한 패키지가 import 되고, 데이터가 load 된 후 전처리와 4가지 지표의 이진 분류에 대한 학습이 진행된다.
-    
+
     그리고 마지막 부분에는 직접 텍스트를 받아 MBTI 성격 유형을 분류하는 것도 가능한 것을 확인할 수 있다.
 
 (5) 직접 텍스트를 넣어 MBTI를 분류하길 원한다면, 
