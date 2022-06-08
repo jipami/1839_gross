@@ -1,3 +1,6 @@
+전처리와 데이터 로드, 전처리, 학습 등의 코드가 모두 담긴 곳은 
+Quick Start Guide는 
+
 # Quick Start Guide
 
 
