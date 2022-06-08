@@ -57,9 +57,12 @@ https://github.com/parkjimin00-a11y/1839_gross/blob/main/%EB%94%A5%EB%9F%AC%EB%8
 (4) 링크에 접속했다면 페이지 상단에 있는 메뉴의 '런타임>모두실행'을 통해 코랩코드를 실행한다.
 
 (3) 필요한 패키지가 import 되고, 데이터가 load 된 후 전처리와 4가지 지표의 이진 분류에 대한 학습이 진행된다.
-    그리고 마지막 부분에는 직접 텍스트를 받아 MBTI 성격 유형을 분류하는 것도 가능한 것을 확인할 수 있다.
 
-(5) 직접 텍스트를 넣어 MBTI를 분류하길 원한다면, 끝에서 2번째 셀에서 text 변수에 분류하길 원하는 텍스트를 넣고 셀을 실행해 준다.
+그리고 마지막 부분에는 직접 텍스트를 받아 MBTI 성격 유형을 분류하는 것도 가능한 것을 확인할 수 있다.
+
+(5) 직접 텍스트를 넣어 MBTI를 분류하길 원한다면, 
+   
+   끝에서 2번째에 있는 셀에서 text 변수에 분류하길 원하는 텍스트를 넣고 셀을 실행해 준다.
 
 ![image](https://user-images.githubusercontent.com/90343909/172704181-3031e1ff-9f8c-448c-a495-b387a6637988.png)
 
@@ -72,9 +75,7 @@ https://github.com/parkjimin00-a11y/1839_gross/blob/main/%EB%94%A5%EB%9F%AC%EB%8
 
 
 
-
 (5) 그러면 그 텍스트에서 드러나는 MBTI를 예측하는 것을 볼 수 있다.
 
 ![image](https://user-images.githubusercontent.com/90343909/172704489-aca5aa55-ef04-4af2-8a26-9d44e87fc1d7.png)
-
 
