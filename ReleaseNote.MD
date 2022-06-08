@@ -14,9 +14,13 @@ https://colab.research.google.com/drive/1OhXjgmXnt5RcVw5A2LZ65Za0fS4S1LkK#scroll
 
 ![image](https://user-images.githubusercontent.com/90343909/172702978-07c9c758-bc2a-4dc5-a80c-4a1390388b20.png)
 
+
+
 (6) 다음 셀을 실행해 준다. (text 변수를 input으로 넣은 코드)
 
 ![image](https://user-images.githubusercontent.com/90343909/172702621-d27bb530-d7d7-452b-a491-72cccd4d6849.png)
+
+
 
 
 (5) 그러면 그 텍스트에서 드러나는 MBTI를 예측하는 것을 볼 수 있다.
