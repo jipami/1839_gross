@@ -60,7 +60,7 @@ https://colab.research.google.com/drive/1OhXjgmXnt5RcVw5A2LZ65Za0fS4S1LkK#scroll
 ### 학부 논문_딥러닝 기반 MBTI 성격 유형 분류 연구
 https://github.com/parkjimin00-a11y/1839_gross/blob/main/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20MBTI%20%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EB%B6%84%EB%A5%98%20%EC%97%B0%EA%B5%AC.pdf
 
-### 또한 이 프로젝트에 대한 설명을 포함한 시연 영상이 있다.
+### 또한 이 프로젝트에 대한 설명을 포함한 시연 영상은 다음과 같다.
 ### 시연 영상_딥러닝 기반 MBTI 성격 유형 분류 연구 https://youtu.be/YJsb7r6x9dM
 
 
