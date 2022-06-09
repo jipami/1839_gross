@@ -39,7 +39,9 @@ https://colab.research.google.com/github/parkjimin00-a11y/1839_gross/blob/main/3
 ![image](https://user-images.githubusercontent.com/90343909/172838273-63ceb803-906b-4fcb-8abf-3d59d7f75a45.png)
 
 ### (3) 
-필요한 패키지가 import 되고, 데이터가 load 된 후(이 데이터는 이 레프로터지의 3-LSTM의 폴더에 있는 데이터와 동일한다.) 전처리와 4가지 지표의 이진 분류에 대한 학습이 진행된다.
+필요한 패키지가 import 되고, 데이터가 load 된 후(이 데이터는 이 레프로터지의 3-LSTM의 폴더에 있는 데이터와 동일하다.) 
+
+전처리와 4가지 지표의 이진 분류에 대한 학습이 진행되는 것을 확인할 수 있다.
 
 그리고 마지막 부분에는 직접 텍스트를 받아 MBTI 성격 유형을 분류하는 것도 가능한 것을 확인할 수 있다.
 
@@ -111,7 +113,9 @@ https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#other-me
 ![image](https://user-images.githubusercontent.com/90343909/172838896-f73cab15-cace-471b-aabe-7e814f40456b.png)
 
 ### (3) 
-필요한 패키지가 import 되고, 데이터가 load 된 후(이 데이터는 이 레프로터지의 3-LSTM의 폴더에 있는 데이터와 동일한다.) 전처리와 4가지 지표의 이진 분류에 대한 학습이 진행된다.
+필요한 패키지가 import 되고, 데이터가 load 된 후(이 데이터는 이 레프로터지의 3-LSTM의 폴더에 있는 데이터와 동일하다.) 
+
+전처리와 4가지 지표의 이진 분류에 대한 학습이 진행되는 것을 확인할 수 있다.
 
 그리고 마지막 부분에는 직접 텍스트를 받아 MBTI 성격 유형을 분류하는 것도 가능한 것을 확인할 수 있다.
 
