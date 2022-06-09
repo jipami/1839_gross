@@ -23,13 +23,10 @@
 
 그리고 아래의 코랩 링크에 들어간다. 아래 링크의 코드는 이 레퍼로터지의 3-LSTM 폴더의 mbti_LSTM.ipynb와 동일하다.
 
-https://colab.research.google.com/github/parkjimin00-a11y/1839_gross/blob/main/mbti_LSTM.ipynb
+https://colab.research.google.com/github/parkjimin00-a11y/1839_gross/blob/main/3-LSTM/mbti_LSTM.ipynb
 
 ### (2)
-링크에 접속했다면 페이지 상단에 있는 메뉴의 '파일>드라이브에 사본 저장'을 통해 사본 페이지가 열린다. 코드는 사본에서 진행한다.
-
-### (3)
-사본 페이지에서 상단 메뉴의 '런타임>모두실행'을 통해 코랩코드를 실행한다.
+링크에 접속했다면 페이지 상단 메뉴의 '런타임>모두실행'을 통해 코랩코드를 실행한다.
 
 ### (3) 
 필요한 패키지가 import 되고, 데이터가 load 된 후 전처리와 4가지 지표의 이진 분류에 대한 학습이 진행된다.
