@@ -23,7 +23,7 @@
 
 그리고 아래의 코랩 링크에 들어간다. 아래 링크의 코드는 이 레퍼로터지의 3-LSTM 폴더의 mbti_LSTM.ipynb와 동일하다.
 
-https://colab.research.google.com/gist/parkjimin00-a11y/8abccb33e905e02a08377624408f443d/mbti_lstm.ipynb#scrollTo=n4SGJk_oF36x
+https://colab.research.google.com/github/parkjimin00-a11y/1839_gross/blob/main/mbti_LSTM.ipynb
 
 ### (2)
 링크에 접속했다면 페이지 상단에 있는 메뉴의 '파일>드라이브에 사본 저장'을 통해 사본 페이지가 열린다. 코드는 사본에서 진행한다.
