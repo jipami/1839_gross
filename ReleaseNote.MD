@@ -26,7 +26,7 @@
 ### (1) 
 먼저 구글에 로그인 해준다. 
 
-그리고 아래의 코랩 링크에 들어간다. 아래 링크의 코드는 이 레퍼로터지의 3-LSTM 폴더의 mbti_LSTM.ipynb와 동일하다.
+그리고 아래의 코랩 링크에 들어간다. (아래 링크의 코드는 이 레프로터지의 3-LSTM 폴더의 mbti_LSTM.ipynb와 동일하다.)
 
 https://colab.research.google.com/github/parkjimin00-a11y/1839_gross/blob/main/3-LSTM/mbti_LSTM.ipynb
 
@@ -96,7 +96,7 @@ https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#other-me
 그 방법은 아래와 같다.
 
 ### (1) 
-아래 zip파일을 다운 받고 압축을 푼다. 아래 zip파일에 담긴 파일은 코드 파일로, 이 레퍼로터지의 3-LSTM 폴더의 mbti_LSTM.ipynb와 동일하다.
+아래 zip파일을 다운 받고 압축을 푼다. 아래 zip파일에 담긴 파일은 코드 파일이다 (이 레프로터지의 3-LSTM 폴더의 mbti_LSTM.ipynb와 동일하다.)
 
 [mbti_LSTM.zip](https://github.com/parkjimin00-a11y/1839_gross/files/8864295/mbti_LSTM.zip)
 
