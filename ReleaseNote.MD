@@ -100,7 +100,7 @@ https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#other-me
 (3) 위의 (2)에서 구글 드라이브에서 저장한 mbti_LSTM.ipynb(코드 파일)를 열면 코랩으로 코드 파일이 열린다.
 
 ### (2)
-코드 파일을 열었다면 페이지 상단 메뉴의 '런타임>모두실행'을 통해 코랩코드를 실행한다.
+코랩 페이지 상단 메뉴의 '런타임>모두실행'을 통해 코랩코드를 실행한다.
 ![image](https://user-images.githubusercontent.com/90343909/172838896-f73cab15-cace-471b-aabe-7e814f40456b.png)
 
 ### (3) 
