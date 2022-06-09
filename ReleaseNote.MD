@@ -148,11 +148,6 @@ https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#other-me
 #### 시연 영상_딥러닝 기반 MBTI 성격 유형 분류 연구 https://youtu.be/YJsb7r6x9dM
 
 
-### 혹시 위의 Quick Start Guide의 방법으로 했을 때 문제가 있다면 아래의 url로 이동한다. 
-
-https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#other-method
-
-
 --------------------------------------------------------
 ---------------------------------------------------------
 
