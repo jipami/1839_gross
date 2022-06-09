@@ -23,7 +23,7 @@
 
 그리고 아래의 코랩 링크에 들어간다. 아래 링크의 코드는 이 레퍼로터지의 3-LSTM 폴더의 mbti_LSTM.ipynb와 동일하다.
 
-https://colab.research.google.com/drive/1OhXjgmXnt5RcVw5A2LZ65Za0fS4S1LkK#scrollTo=n4SGJk_oF36x
+https://colab.research.google.com/gist/parkjimin00-a11y/8abccb33e905e02a08377624408f443d/mbti_lstm.ipynb#scrollTo=n4SGJk_oF36x
 
 ### (2)
 링크에 접속했다면 페이지 상단에 있는 메뉴의 '런타임>모두실행'을 통해 코랩코드를 실행한다.
