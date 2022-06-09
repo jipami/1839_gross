@@ -99,6 +99,10 @@ https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#other-me
 
 (3) 위의 (2)에서 구글 드라이브에서 저장한 mbti_LSTM.ipynb(코드 파일)를 열면 코랩으로 코드 파일이 열린다.
 
+### (2)
+코드 파일을 열었다면 페이지 상단 메뉴의 '런타임>모두실행'을 통해 코랩코드를 실행한다.
+![image](https://user-images.githubusercontent.com/90343909/172838896-f73cab15-cace-471b-aabe-7e814f40456b.png)
+
 ### (3) 
 필요한 패키지가 import 되고, 데이터가 load 된 후(이 데이터는 이 레프로터지의 3-LSTM의 폴더에 있는 데이터와 동일한다.) 전처리와 4가지 지표의 이진 분류에 대한 학습이 진행된다.
 
