@@ -94,16 +94,20 @@ https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#other-me
 
 그 방법은 아래와 같다.
 
-(1) 아래 zip파일을 다운 받고 압축을 푼다. 아래 zip파일에 담긴 파일은 코드 파일로, 이 레퍼로터지의 3-LSTM 폴더의 mbti_LSTM.ipynb와 동일하다.
+### (1) 
+아래 zip파일을 다운 받고 압축을 푼다. 아래 zip파일에 담긴 파일은 코드 파일로, 이 레퍼로터지의 3-LSTM 폴더의 mbti_LSTM.ipynb와 동일하다.
 
 [mbti_LSTM.zip](https://github.com/parkjimin00-a11y/1839_gross/files/8864295/mbti_LSTM.zip)
 
-(2) 압축을 푼 폴더 안의 mbti_LSTM.ipynb(코드 파일)을 구글 드라이브에 저장해준다.
+### (2) 
+압축을 푼 폴더 안의 mbti_LSTM.ipynb(코드 파일)을 구글 드라이브에 저장해준다.
 
-(3) 위의 (2)에서 구글 드라이브에서 저장한 mbti_LSTM.ipynb(코드 파일)를 열면 코랩으로 코드 파일이 열린다.
+### (3) 
+위의 (2)에서 구글 드라이브에서 저장한 mbti_LSTM.ipynb(코드 파일)를 열면 코랩으로 코드 파일이 열린다.
 
 ### (2)
 코랩 페이지 상단 메뉴의 '런타임>모두실행'을 통해 코랩코드를 실행한다.
+
 ![image](https://user-images.githubusercontent.com/90343909/172838896-f73cab15-cace-471b-aabe-7e814f40456b.png)
 
 ### (3) 
