@@ -141,10 +141,10 @@ https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#other-me
 ![image](https://user-images.githubusercontent.com/90343909/172704489-aca5aa55-ef04-4af2-8a26-9d44e87fc1d7.png)
 
 ----------------
-### 이 프로젝트의 산출물로 논문이 있다.
+### (7) 이 프로젝트의 산출물인 논문
 #### 학부 논문_딥러닝 기반 MBTI 성격 유형 분류 연구 https://github.com/parkjimin00-a11y/1839_gross/blob/main/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20MBTI%20%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EB%B6%84%EB%A5%98%20%EC%97%B0%EA%B5%AC.pdf
 
-### 또한 이 프로젝트에 대한 설명을 포함한 시연 영상은 다음과 같다.
+### (8) 이 프로젝트에 대한 설명을 포함한 시연 영상
 #### 시연 영상_딥러닝 기반 MBTI 성격 유형 분류 연구 https://youtu.be/YJsb7r6x9dM
 
 
