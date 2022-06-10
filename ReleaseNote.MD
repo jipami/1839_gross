@@ -31,10 +31,12 @@ https://colab.research.google.com/github/parkjimin00-a11y/1839_growth/blob/main/
 
 ### (2)
 링크에 접속했다면 페이지 상단 메뉴의 '런타임>모두실행'을 통해 코랩코드를 실행한다.
+
 ![image](https://user-images.githubusercontent.com/90343909/172838896-f73cab15-cace-471b-aabe-7e814f40456b.png)
 
 
 아래와 같이 '경고: 이 노트는 Google에서 작성하지 않았습니다.' 라는 팝업창이 뜨면 '무시하고 계속하기'를 선택한다.
+
 ![image](https://user-images.githubusercontent.com/90343909/172838273-63ceb803-906b-4fcb-8abf-3d59d7f75a45.png)
 
 ### (3) 
@@ -96,6 +98,7 @@ https://github.com/parkjimin00-a11y/1839_growth/blob/main/ReleaseNote.MD#other-m
 
 ### (1) 
 아래 zip파일을 다운 받고 압축을 푼다. 아래 zip파일에 담긴 파일은 코드 파일이다 (이 레프로터지의 3-LSTM 폴더의 mbti_LSTM.ipynb와 동일하다.)
+
 [mbti_LSTM.zip](https://github.com/parkjimin00-a11y/1839_growth/files/8876084/mbti_LSTM.zip)
 
 
