@@ -1,7 +1,9 @@
 # 1839_growth
 ---------------------------------------------------------
 --------------------------------------------------------
-## Quick Start Guide https://github.com/parkjimin00-a11y/1839_growth/blob/main/ReleaseNote.MD#quick-start-guide
+## Quick Start Guide 
+
+https://github.com/parkjimin00-a11y/1839_growth/blob/main/ReleaseNote.MD#quick-start-guide
 
 
 ## 전처리와 데이터 로드, 전처리, 학습 등이 모두 담긴 코드 https://github.com/parkjimin00-a11y/1839_growth/blob/main/3-LSTM/mbti_LSTM.ipynb
