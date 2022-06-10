@@ -1,12 +1,12 @@
 # 1839_growth
 ---------------------------------------------------------
 --------------------------------------------------------
-## Quick Start Guide https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#quick-start-guide
+## Quick Start Guide https://github.com/parkjimin00-a11y/1839_growth/blob/main/ReleaseNote.MD#quick-start-guide
 
 
-## 전처리와 데이터 로드, 전처리, 학습 등이 모두 담긴 코드 https://github.com/parkjimin00-a11y/1839_gross/blob/main/3-LSTM/mbti_LSTM.ipynb
+## 전처리와 데이터 로드, 전처리, 학습 등이 모두 담긴 코드 https://github.com/parkjimin00-a11y/1839_growth/blob/main/3-LSTM/mbti_LSTM.ipynb
 
-## 학부 논문_딥러닝 기반 MBTI 성격 유형 분류 연구 https://github.com/parkjimin00-a11y/1839_gross/blob/main/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20MBTI%20%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EB%B6%84%EB%A5%98%20%EC%97%B0%EA%B5%AC.pdf
+## 학부 논문_딥러닝 기반 MBTI 성격 유형 분류 연구 https://github.com/parkjimin00-a11y/1839_growth/blob/main/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20MBTI%20%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EB%B6%84%EB%A5%98%20%EC%97%B0%EA%B5%AC.pdf
 
 ## 시연 영상_딥러닝 기반 MBTI 성격 유형 분류 연구 https://youtu.be/YJsb7r6x9dM
 
@@ -27,7 +27,7 @@
 
 그리고 아래의 코랩 링크에 들어간다. (아래 링크의 코드는 이 레프로터지의 3-LSTM 폴더의 mbti_LSTM.ipynb와 동일하다.)
 
-https://colab.research.google.com/github/parkjimin00-a11y/1839_gross/blob/main/3-LSTM/mbti_LSTM.ipynb
+https://colab.research.google.com/github/parkjimin00-a11y/1839_growth/blob/main/3-LSTM/mbti_LSTM.ipynb
 
 ### (2)
 링크에 접속했다면 페이지 상단 메뉴의 '런타임>모두실행'을 통해 코랩코드를 실행한다.
@@ -68,7 +68,7 @@ https://colab.research.google.com/github/parkjimin00-a11y/1839_gross/blob/main/3
 
 ----------------
 ### (7) 이 프로젝트의 산출물인 논문
-#### 학부 논문_딥러닝 기반 MBTI 성격 유형 분류 연구 https://github.com/parkjimin00-a11y/1839_gross/blob/main/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20MBTI%20%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EB%B6%84%EB%A5%98%20%EC%97%B0%EA%B5%AC.pdf
+#### 학부 논문_딥러닝 기반 MBTI 성격 유형 분류 연구 https://github.com/parkjimin00-a11y/1839_growth/blob/main/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20MBTI%20%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EB%B6%84%EB%A5%98%20%EC%97%B0%EA%B5%AC.pdf
 
 ### (8) 이 프로젝트에 대한 설명을 포함한 시연 영상
 #### 시연 영상_딥러닝 기반 MBTI 성격 유형 분류 연구 https://youtu.be/YJsb7r6x9dM
@@ -76,7 +76,7 @@ https://colab.research.google.com/github/parkjimin00-a11y/1839_gross/blob/main/3
 
 ### 혹시 위의 Quick Start Guide의 방법으로 했을 때 문제가 있다면 아래의 url로 이동한다. 
 
-https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#other-method
+https://github.com/parkjimin00-a11y/1839_growth/blob/main/ReleaseNote.MD#other-method
 
 ------------------------------------------------------------------------------------------------------------------
 
@@ -97,7 +97,7 @@ https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#other-me
 ### (1) 
 아래 zip파일을 다운 받고 압축을 푼다. 아래 zip파일에 담긴 파일은 코드 파일이다 (이 레프로터지의 3-LSTM 폴더의 mbti_LSTM.ipynb와 동일하다.)
 
-[mbti_LSTM.zip](https://github.com/parkjimin00-a11y/1839_gross/files/8864295/mbti_LSTM.zip)
+[mbti_LSTM.zip](https://github.com/parkjimin00-a11y/1839_growth/files/8864295/mbti_LSTM.zip)
 
 ### (2) 
 압축을 푼 폴더 안의 mbti_LSTM.ipynb(코드 파일)을 구글 드라이브에 저장해준다.
@@ -141,7 +141,7 @@ https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#other-me
 
 ----------------
 ### (7) 이 프로젝트의 산출물인 논문
-#### 학부 논문_딥러닝 기반 MBTI 성격 유형 분류 연구 https://github.com/parkjimin00-a11y/1839_gross/blob/main/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20MBTI%20%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EB%B6%84%EB%A5%98%20%EC%97%B0%EA%B5%AC.pdf
+#### 학부 논문_딥러닝 기반 MBTI 성격 유형 분류 연구 https://github.com/parkjimin00-a11y/1839_growth/blob/main/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20MBTI%20%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EB%B6%84%EB%A5%98%20%EC%97%B0%EA%B5%AC.pdf
 
 
 ### (8) 이 프로젝트에 대한 설명을 포함한 시연 영상
@@ -151,4 +151,4 @@ https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#other-me
 --------------------------------------------------------
 ---------------------------------------------------------
 
-## Quick Start Guide https://github.com/parkjimin00-a11y/1839_gross/blob/main/ReleaseNote.MD#quick-start-guide
+## Quick Start Guide https://github.com/parkjimin00-a11y/1839_growth/blob/main/ReleaseNote.MD#quick-start-guide
