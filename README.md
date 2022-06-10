@@ -1,4 +1,4 @@
-# 1839_gross
+# 1839_growth
 # 1 - Crawling (크롤링)
 
 아나콘다(https://www.anaconda.com/products/individual )’를 설치하여 파이썬과 라이브러리를 한번에 사용 할 수 있는 가상환경을 만들고 
