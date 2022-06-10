@@ -97,7 +97,8 @@ https://github.com/parkjimin00-a11y/1839_growth/blob/main/ReleaseNote.MD#other-m
 ### (1) 
 아래 zip파일을 다운 받고 압축을 푼다. 아래 zip파일에 담긴 파일은 코드 파일이다 (이 레프로터지의 3-LSTM 폴더의 mbti_LSTM.ipynb와 동일하다.)
 
-[mbti_LSTM.zip](https://github.com/parkjimin00-a11y/1839_growth/files/8864295/mbti_LSTM.zip)
+[mbti_LSTM.zip](https://github.com/parkjimin00-a11y/1839_growth/files/8876064/mbti_LSTM.zip)
+
 
 ### (2) 
 압축을 푼 폴더 안의 mbti_LSTM.ipynb(코드 파일)을 구글 드라이브에 저장해준다.
