@@ -46,8 +46,8 @@ https://colab.research.google.com/github/parkjimin00-a11y/1839_growth/blob/main/
 
 그리고 마지막 부분에는 직접 텍스트를 받아 MBTI 성격 유형을 분류하는 것도 가능한 것을 확인할 수 있다.
 
-### (4) 
-직접 텍스트를 넣어 MBTI를 분류하길 원한다면, 
+### (4)
+직접 텍스트를 넣어 MBTI를 분류하길 원한다면
    
    끝에서 2번째에 있는 셀에서 text 변수에 분류하길 원하는 텍스트를 넣고 셀을 실행해 준다.
 
